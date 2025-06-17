@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujalmohanty&show_icons=true&theme=default&hide_title=false&locale=en" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalmohanty&theme=default" width="47%"/>
 </p>
 
 <p align="center">
